@@ -1,4 +1,4 @@
-# Nomor SEP Renamer
+# SEP Renamer Number
 
 A production-ready Python automation system that systematically processes PDF documents to extract and identify 'Nomor SEP' values from text content, then intelligently renames each PDF file using the discovered 'Nomor SEP' identifier.
 
